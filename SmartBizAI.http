@@ -1,0 +1,6 @@
+@SmartBizAI_HostAddress = http://localhost:5079
+
+GET {{SmartBizAI_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
